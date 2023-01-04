@@ -1,0 +1,22 @@
+- Can't ask same question twice.
+- Protocol : Question -> pause -> objection -> then answer.
+- as little information as possible.
+- Historical Facts
+- Employment and Income
+- Interview with Doctor Kline
+-  Incidence
+- Mental History
+- family  involvement. 
+- Always have it in the time frame context.
+- Do not think out aloud
+- Yes, No, I don't know, I don't recall specifics, can you rephrase the question
+- Community facts
+- Review prior testimony
+- DVA
+- Normalized visitation sleeping co-sleeping, set the stage. 
+- context in time. what time frame?
+- Double or triple negative. 
+- Pronouns vs Names. use names as much as possible. 
+- guess means I have no idea vs estimate, I kind of have an idea. 
+- mentally ill accusation. 
+- 
