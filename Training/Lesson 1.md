@@ -1,2 +1,0 @@
-- [[Four planes of development]]
-- [[The Human Tendencies]]

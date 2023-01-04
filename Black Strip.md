@@ -1,8 +1,0 @@
-
-- Remember we talked about the coming of earth , the plants and  animals into existence and I wonder if you were thinking about how long this all took?
-- In order to give you the answer it will take a lot of space.
-- We talked about how life came to earth, do you remember in the story of the earth, the earth was cooling down, and cooling down. It took a long time. The fiery mass and the cold vastness of space.... and cooling down... this is the time of the dance of elements. Look how far we have come... all of this time the earth was cooling. 
-- Crest appearing with wrinkles and hollows... and it rained .. and rained. 
-- Water became full of salts... leading to an unbalance. 
-- About this time one drop of life came to the ocean. To bring balance. After that all sort of experiments started happening. Life was creating, growing, multiplying .... both one cell and many celll.... look back at the strip how much time has passed. Sea full of life.... and time went on.... plants in water and on land.... and time went on. Fish with back bones and time went on. Reptiles grew and became dinosaurs and time went on... dinosaurs disappeared..... and time went on.... the earth had plants, insects, birds, mammals, and time went on .. and then a special kind of creature showed up that the earth was prepared to receive and that was the human being... that is what the red strip shows us. This is how long the humans have been on earth in all the time on earth. Let's walk back in time and see how long the earth has been preparing for the human beings to come.
-- Walk back and do you know how long this took...... 4.5 billion years.....
