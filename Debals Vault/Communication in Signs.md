@@ -1,0 +1,38 @@
+- Do you remember the story of God with No Hands where we talked about the creation of the universe?
+- At the very end... to coming of life... to get earth ready for us. The long black strip .. and the story about ourselves and three special gifts bestowed to us. We had hand timeline and things we do with our hands to meet their needs.
+- This story is about what happened once humans came to earth.
+- no one knows exactly how long we have been on earth. This is a once upon a time story, just like all good stories but is also a true story.
+- We know people just like us always have needed to eat food. They found food and would tell those berries down by the stream they are tasty. 
+- As time went on, some of them started to move away from each other as to where they lived. There was a bit of a problem
+	- If someone one was far away peopl would not be able to hear them. That was a problem.
+	- Someone came up with a good idea, the person thought of making a picture of what i found, no one had ever done this before. For a long long long time ... made pictures of important things and to tell others.
+	- Time went on and picture messages went on.
+	- The Egyptians lived near a large river called Nile, started making different types of pictures. These pictures were called hieroglyphs. Which means holy carved writings
+	- They believed their writing was sacred.
+	- Sometimes carved in stone, it would take a long time... what if you had to do it?
+	- Sometimes they painted for a long time.
+	- Egyptian wanted to make it easy for themselves they made a kind of a paper that grew on the banks of the Nile river. Use brush to make pictures and later designed a pen.
+	- This method was much easier. Still, not very easy to figure out the pictures. People had to guess. 
+	- It was confusing because they made pics to represent a thing , idea, sound. It was confusing.
+		- Leg could mean leg or it could mean run or quick.
+	- other groups of people living near by , one of them was Phoenicians. They are an important part of this story.
+	- Egyptians were farmers and had crops but Phoenicians were sailors and traders.
+		- Phoenicians had all sorts of wonderful things to trade. Silver, spices, jewelry, crystal, glasses. One very special thing, that only Phoenicians had, it was a purple dye to color things like cloth like Tyrion purple/ royal purple.
+		- This purple is more like the red color today.
+		- It was an important thing that they traded but not the only reason.
+		- The Phoenicians are important , do you want to know what it is?
+			- They knew about he idea of pictures and sound pictures of Egyptian.
+			- They knew about the confusion in those pics.
+			- They were busy traders, they invented an easy way 
+			- Keep only the the few sound pictures of Egyptians and change just a little bit. It was easy to write what they meant
+			- The Phoenicians found out what you have while working with the sand paper letters.
+			- Cat example.
+			- Little marks that was not sound pics anymore, they were very clever.
+	- The Greeks changed the shape a little bit
+	- The Roman's changed the Greeks. The first two letters AB
+	- The alphabet (Roman's calling Phoenician marks)
+	- Romans wrote in capital letters. Last forever by carving in building with beauty.
+	- Phoenicians credit.
+	- Gratitude to Phoenicians (write and leave messages.)
+	- Phoenicians made it possible for authors to tell story. I can read it to you without the author being there and you as well.
+	- Gratitude for the gift of letters.
