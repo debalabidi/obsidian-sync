@@ -1,0 +1,153 @@
+- Accounting of what has and what may have happened in the past in regards to humans
+- Systematic, developmental of ppl , generally in chronological order with analysis and explanation
+- Recorded events of the past in the form of a narrative, play, story, publication, diary. (Story of human beings)
+- Practical need for human beings to organize, organization was more efficient to provide for self protection & perfection.
+- through humans coming and working together. They constructed both physical and spiritual aspects hence fulfilling fundamental needs.
+- The essence that we hope that children realize via the study of history is :
+	- Humans are creators.
+	- Creation was to satisfy their fundamental needs.
+	- Guided by intellect , usage of hands and imagination.
+	- Human creators two types: known in history vs unknown in history (things that we do not know who did it , invention remains but inventor forgotten)
+	- Children realize not only creatures of the Supra natura but they have organized it.
+	- Supra natura
+		- Consists of everything created by human beings above what was here first in nature. 
+		- foundation not of natural world but a foundation of previous humans  have built and created.
+	- We need to show the life of past leading to a realization of gratitude owed to so many human beings.
+	- Put child in contact with intelligence of people so we know what we owe.
+	- Know about famous vs unknown people. What about those peoples contribution that were not recorded because of who was writing the history.?
+	- Help the children consider these ideas as they explore history
+
+#### History in the First plane of development
+- Pyschological characteristics guide us.
+- child constructing the individual he will become.
+- Has an unconscious absorbent mind. Takes in all that is presented be it the CASA or the Home.
+- In case of history the child takes in the life of the culture and the sensoria's experience that are part of the cultural life. 
+- The child absorbs the food, dress and language, customs - basically learning history unconciously and without judgement. The child is taking his place in history within family and the culture of family. 
+- The child in CASA is further orienting himself to his culture. Not a formal study of history in CASA. 
+- Considering themselves and focused inwardly on their development , adapting to their own culture. The child is interested in the work that is happening around them by human beings.
+- As the child becomes comfortable in ability to engage in daily life, we introduce him to some takes that are accomplished by human beings in other cultures.
+- Social geography or human geography provides foundation for our work with history in elementary.
+- Social geography cannot be presented without political and physical geography(it provides context for learning) (accomplished via geography folders)
+- Geography folders - fundamental needs of people in each continent.
+- This points to children that the differences in meeting needs is based on teh environment that they lived in. 
+- We give names and facts - helps in establishing foundation.
+- Necessary tools to ask questions for information in the second plane of development.
+- We offer Nomenclature cards in casa through the picture card material (for vocabulary enrichment dealing with social environment, kitchen , tools, farm animals, indigenous flowers scientific terms, land and water forms, part of a triangle)
+- The cards are focuse in such a way to allow for classification of information related to the fundamental needs.
+- Does not have a strong grip on time. But beginning of second plane and late casa period they begin to develop a sense of it. We can use picture cards to help develop chronology and sequencing of things. The way people dress, in this area, ppl used to dress like that, then like that and now like that.
+- Bring stories , poems, national anthems, folk songs, - part of collective history of humanity.
+- History can be an exercise for imaginative construction.
+- History includes humans and the interactions with one another. (Customs and grace and courtesy, culturally relevant key)
+
+#### History in the second plane of development
+- Important to give the child all the elements of his culture.
+- Entire picture first and details later to allow for compartmentalization.
+- Child is beginning to organize his thoughts , impressions and knowledge.
+- The period of acquisition of culture.(not limited to mannerisms and beliefs, but the accumulated knowledge of human beings across time and geography and across our own culture)
+- Child receives with enthusiasm and vivid imagination.
+- Can explore things not able to see via imagination.
+- Imagination enables child to investigate beyond what he can see visually or  via touch. 
+- Can explore beyond his own time and culture. Via imagination. Study past and imagine the future.
+- Second plane has a different kind of intellect, therefore we provide
+	- For construction of reasoning mind.
+	- Most receptive to intellectual learning in this phase of their lives and have the capacity to learn (able to learn)
+	- Job of adult to allow reason to function , the work of child must be carried out through reason. 
+	- The rational thinking is being developed, and to support the development of rational thinking by giving opportunities to reason about things.
+	- Executive functioning consist of reasoning mind, it compares things, in relation to one another.
+	- Fully functioning reasoning mind is ready to accept interrelatedness of the universe and cosmic education is the tool  that allows the child to understand.
+	- First thing we do is to help the child realize that this is his story
+	- Aspects for archeology, 
+	- Universe, inventions
+	- Human can change environment for good or bad.
+	- Gifts of human being, why these gifts were bestowed upon them. 
+	- All humans are same treat each other with respect
+	- How we did things in past, and now.
+	- With the reasoning mind the child is attracted to great deeds that the people did them. 
+	- He possess a great sense of justice, admiration and compassion. 
+	- We should share stories to allow for admiration. Introduce the child to heroes that are worthy of admiration in society now and throughout history.
+	- This will connect the child with the possibility of what human beings are capable off. It presents the idea that the child can become a hero for someone else.
+	- Civilization created by intellectual man. To foster real values of humanity. And gratitude for whom civilization is indebted too.
+	- Second plane children have the tendency to form groups, practicing being a part of society, and in order to do that effectively they must understand the how and why of societal interaction.
+	- The building up of society requires cooperation of people (working together). We present those ideas to children via stories. 
+	- Brief description are given of early civilization, showing impacts to each other. demonstrating that society is slowly moving towards unity.
+	- Under take cooperative group work to practice it.
+	- The child starts to understand he relates and belongs to society and how he conducts himself.
+	- The child can realize he possesses the qualities of intelligence, with interest and particular gifts to offer. 
+	- Can learn to act upon ideas and use intellect to be a functioning member of society.
+	- Child can become aware that he has something to contribute in society in the same way the people whom he is studying with. 
+	- We hope to activate in the child the understanding of himself and his place in society. This equates that he has a contribution to make , and appreciate others contribution. All work deserve respect and gratitude.
+	- History is at the center of the cosmic education in regards to human beings.
+	- As we introduce human beings to children we need to emphasis on the gifts given to humans. Specially the power of the mind or the will. (Question: need to understand why will, and if we can get more insight into will, like how we have insight into imagination and reasoning mind, some people think will has to do with multiple agencies of human beings, namely intellect, judgement, fairness, justice, compassion, humility etc which contribute to the will of a human being)
+	- Great responsibilities come with the gifts given to humans.
+	- Put children in relation to humanity, child might enjoy more if given a bigger context to things. Every achievement has come by the sacrifice of someone who is now dead.
+
+#### History in the elementary classroom
+- Center of cosmic education. 
+- Closely connected to geography, physical, political, social.
+- Geography explores the impact of environment on human beings.
+- Imagination gives us that which we cannot get from our senses.
+- When we study history, we see them in our minds, arousing sentiments.
+	- Example, Kansas was completely under water, how did this happen? (Invoking the imagination  and wonder in teh child)
+- History is linked to biology, biotic and abiotic make up env, interconnected and linked.
+- Emphasizing that earth was prepared for Humans and had to go through transformation to be ready to accept us.
+- Linear impression (black strip) , perspective (short time of humans on earth)
+- The nature of unrecorded history (it is appealing and does not answer questions in a definitive manner but appeals to the imagination and wonder of the child.)
+- The third great story provides the children with the idea that we have the power to adapt to the env and change it as well.
+- Three gifts the humans have
+	- Think
+	- Love
+	- Hand that can work.
+- We reinforce it via the hand timeline as well. Further giving impression of very short time written records,
+- Recorded history - we get more facts but need to inculcate that this is someone else's perspective of what happened.
+- The fundamental needs of human beings runs through out the study of history.
+- Take a look at how needs were met in different places and at different times and env. Highlighting that humans are one. 
+- We introduce the fundamental needs of humans both physical and spiritual.
+	- It provides structure to explore other cultures.
+	- It's a point of discussion as we introduce the idea of migration of people.
+	- Migration of people to meet the human needs.
+	- Children might become interested in specific culture or groups of ppl, we have a tool to study called the history question chart.
+		- The purpose of this chart is to provide a framework via which the child structures their questioning and research. Which encourages child to look in depth beyond story or idea. 
+	- We have timelines to guide our study of human beings.
+	- We introduce the first timeline of human beings and the second timeline human beings as a starting point for the children.
+	- Both timelines demonstrate that humans are meeting their fundamental needs (first as individuals and in time as groups)
+	- timelines gives child an overview of early human development and flow of time and share details of specifics 
+	- The timelines offer flexibility to the teacher to follow the interest of the children. But offer framework to see in time where that interest might be.  
+	- In traditional curriculum it is expected that child will memorize specifically for state and country history. The material is designed in Montessori to achieve that objective called the timeline for memorization. 
+	- The timeline for memorization is made with children and used as a tool to learn dates required by state curriculum.
+	- We approach the idea of time and its passage with the children. Via stories we introduce idea of centuries, years , months weeks, clock time measurement of time.(ERAs???)
+	- Children need to understand how we measure time oriented to teh society in which they live but because understanding of time allows for deeper exploration of the past.
+	- Children are fascinated by stories and we might share a story how Wednesday got its name, while introduction spelling and the reasoning behind it. THis approach makes it interesting which would normally be a very dry and not so exciting spelling lesson.
+	- History shelf is very limited because they are tools of exploration and are limitless in their potential
+	- The story told by the guide are the bulk of history lessons.
+	- Once the children know how to use the tools on the shelf all we must do is ignite the imagination with our stories leaving plenty for the children to explore on their own. 
+	- The tools allow for both horizontal and vertical approach to history.
+		- Horizontal = comparative study (certain period of time, different ppl in variety of geography with time being constant) (compare and contrast approach)
+		- Vertical = chronological study of group of people.
+	- History as w subject is the responsibility of the adult. Job of the prepared adult to connect the child to history via stories.
+	- Words used must be limited clear and provide enough information for the beginning of understanding. And then the reasoning mind and imagination kicks in to find the details.
+	- Stories need to give the basic information while at the same time fascinating and touching imagination
+	- Success of the guide is dependent on ability to create stories. this will lead to excitement in the children and thus activating their imagination. The principle being how little can i give yet make it fascinating.
+	- Stories should contain several jumping off points allowing the child to seek what interest him.
+	- Seeking their own knowledge and gathering information that the child comes to a true understanding and gains satisfaction in teh task of learning. 
+
+#### History in the third plane of development
+
+- Young adult is creating his social personality in relation to the world.
+- Figuring out who he is.
+- Tries various mask and personalities.
+- More sensitive to society
+- Is able to understand the importance of collaboration at a deeper level.
+- Idealistic feelings.
+- There is a transition from being a child in the family to an adult in society 
+- The adolescent begins to search for his own cosmic task and consider how he might contribute to society in a meaningful way.
+- Ideas for supporting development of adolescents
+	- Emphasing that all history must be science based.
+	- At this age the path of study must truely come from adolescent and what he wants to contribute to the world.
+	- Montessori suggests to have primary text such as maps, documents, religious documents for study and consideration rather than relying on textbooks. (fostering their ability to interpret information and form his own opinions through his own critical analysis and assessment, free of the filters that are established in textbooks.)
+	- Beyond study of mankind - history of machines is focused on allowing for a deeper study of supernatura
+	- Machinery museum to be able to take apart things and reassemble the machines that man used in order to advance civilization.
+	- Machines are the proofs of greatness of collective humanity.
+
+### Conclusion
+
+History is the center of cosmic education. It is not connected but an over arching subject due to a story of human beings. History is the story of our place and our role in the world an ongoing story and connect the child to his own unique story and fit his story into the context of the human beings. Admiration for all known and unknown pioneers.

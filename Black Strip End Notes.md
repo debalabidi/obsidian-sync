@@ -1,0 +1,18 @@
+- Developed in India during ww2
+- Indian children were proud and smug , because their culture was so old. She thought it would put Indian culture in reference to 
+- 300 meters long and was taken on by two bicycles.
+- To realize humans have been on earth for a very insignificant amount of time. 
+- It's impressive to a 6 , 7  year old.
+- It's ok to invite children to unroll with you. But invite them by name and let them take turns and you want to be unrolling by the time we get to the red strip. 
+- When you are about to unroll to the red strip you want to get everyone's attention. 
+- When walking back to the timeline, we need to only give children just one fact, how long it took.
+- Update the years of existence if there is a scientific realization.
+- Give to small group of children maybe 4 or 5 if you can manage it. 
+- Typically orienting on young children but might have some older children as well.
+- Nice if you can do it outside 
+- Nice if you can do it in one big long straight line. 
+- If you cant get one big straight line and turn the corner try to give the proper impression.
+- Build anticipation for the red strip.
+- At the end invite the children to roll it up, and be present with them. We want to instil that not only do we value just the work but the completion of the work (put it back on the shelf and ready for the next person to use it.)
+- As you practice the story , it is a good idea to have markers that would allow you to pace your story. 
+- 30 yards long, 9 to 10 inches wide.
