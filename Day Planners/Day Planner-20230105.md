@@ -1,0 +1,13 @@
+## Day Planner
+- [ ] Purchase gift.
+- [ ] Java project review
+- [ ] Java review
+- [ ] Observation notes.
+- [ ] Library return
+- [ ] Glasses
+- [ ] Carpet cleaning
+- [ ] Citizenship
+- [ ] Email for child support and Brenda and t
+- [ ] Pick medicine from cvs
+- [ ] Finalize the clock of eras.
+- [ ] 
