@@ -8,6 +8,8 @@
 - Chart H5
 - Chart H5a
 
+
+
 # Prerequisites
 - Story of God with no hands
 - Story of coming of life
@@ -22,9 +24,15 @@
 
 So we have been talking about the creation of earth and we have been asking how long did this all take? We are going to be looking at that again today. We are going to look at it here with the clock of eras. If you look here, we have a clock broken into 12 hours just like we have over there on our clock in the classroom. It's the same. Look here's our 12 right at the top, one, two, three, four, five, six, seven, eight, nine, ten, eleven and back to twelve. Just like our clock. 
 
+![[The-Clock-of-Eras-jpg.jpg]]
+
 Well when we had our black strip you remember that we talked about how the earth had been here for a long long long time, but human beings hadn't been here for very long at all. We are going to look at that again, but today we are going to look at it here on this clock.  
 
+
+
 This clock is all of the time that the earth has been here. Let's start here at the 12.  This is where teh beginning of the earth is on our clock. Do you remember how we thought how hot we talked about the earth being right at the beginning and so much cool had to happen. It took a very long time for the cooling to happen. For some settling down, so that our rocks could form, so our valleys and our mountains that was the formation of our crust. It took all the way to 4 o'clock. From 12 to 4 on our clock. 
+
+![[The-Clock-of-Eras-key-jpg.jpg]]
 
 And when once it was cool enough for our crust to form, it was cool enough for water to stay on teh surface of the earth, and it rained. And it rained , and rained and it rained and it rained you remember that? It just kept raining and raining and all that liquid was filling the crevices and filling the cracks and filling our oceans.
 
@@ -43,6 +51,12 @@ Now we are here at 11 hours 59 minutes and 45 and a half seconds. And you can se
 Out of 12 whole hours, its only for the last 14 and a half seconds that human beings have been here. We certainly have not been here long have we. 
 
 /*steps in giving presentation and add illustrations*/
+
+
+
+
+
+
 
 
 
