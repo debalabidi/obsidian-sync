@@ -154,9 +154,180 @@ A constructor can have a call to this() or super() but not both.
 
 ##### Important points about Generics
 
-1. Creating an instances of generic classes (like arraylist) new ArrayList<Dog>()
-2. Declaring and assigning variables of generic types , List<Dog> = new ArrayList<Dog>()
+1. Creating an instances of generic classes (like arraylist) 
+	1. `new ArrayList<Dog>()`
+2. Declaring and assigning variables of generic types , 
+	1. `List<Dog> = new ArrayList<Dog>()`
 3. Declaring and invoking methods that take generic types.
+
+
+##### Using Generic Class
+
+- Arraylist is the most used generic class.
+- Two key areas to look at are:
+	- The class declaration.
+	- The method declaration that lets you add elements.
+
+` public class ArrayList<E> extends AbstractList<E> implements List<E>`
+
+`Public Boolean add(E o)`
+
+The E represents the object that would be passed into the method. It is called the type parameter.
+
+
+##### Using generic methods
+
+- Generic class means that the class declaration uses type parameter.
+- Generic method means that the method uses type parameter.
+- Type parameters can be used in different ways
+	- Using type parameter defined in the class declaration. 
+	- Using type parameter not defined in the class declaration
+		- If the class does not use type parameter, then you can still specify the Type parameter before the return type. That says that T can be of any type animal.
+
+`public <T extends Animal> void takeThing(ArrayList <T> list)`
+
+`public void takeThing(ArrayList<Animal> list)`
+
+The first one can take any type of sub class of animal while the second one can not take a subtype of animal and only take in an Animal. It does gives the illusion of breaking polymorphism.
+
+In generics extends means extend or implements.
+
+Comparable provides you with the ability to compare two objects, one itself and the other that is passed in. 
+
+A comparator class allows you to pass in a class with a custom sort, so you can have a class that sorts by artist or title. 
+
+You can use an inner class to avoid the boiler plate code but it is still verbose.
+
+You can use lambdas. 
+
+SAM (Single Abstract Method) / Functional Interfaces they only have one abstract method.
+
+Collection API's have three main interfaces:
+1. List
+2. Set
+3. Maps
+
+
+List is used when sequence matters. Collection know about index position. List know where something is in the list. You can have more than one element referencing the same object.
+
+Set is used when uniqueness matters. Collection that do not allow duplicates. You can never have more than one element referencing the same object. 
+
+Maps is used when finding something by key matters. Collection uses key value pairs. Maps know the value associated with the given key. You can have two keys referencing the same value but you cannot have two duplicate keys. 
+
+
+##### What makes two objects equal
+
+Reference equality vs Object Equality
+
+Reference Equality: Two references one object on the heap. If you call the hashCode method on them you will get the same result. If you do not override the hashCode method you inherit it from the class object. Usually the objects memory address is used to generate the hashCode so that no two objects have the same address.
+
+
+Object Equality: Two references and two objects on the heap but from business standpoint they are equal. If we want to treat both objects to be equal then you have to override both hashcode() and equals() method. You override the equals to ensure that the attributes or the uniqueness is the same and then hashcode is overridden to ensure that they are the same. 
+
+##### How Hashset checks for duplicates : hashcode() and equals()
+
+When you put an object into hashset it calls the objects hashcode method to determine where to put the object in the hashset. It compares the hashcode of other objects as well and if there is not a duplicate then it assumes it is unique. So you need to override the hashcode so to ensure that the hashcode is the same for when two objects are fundamentally equal. 
+
+So if the hashset encounters an object trying to be inserted the that has the same hashcode() then it calls the equals method and see if they are really equal. If equal the object is not added to the hashset. 
+
+
+##### Class object states rules you may follow
+
+- If two objects are equal they must have the same hashcode
+- If two objects are equal then calling the equals method on either object will return true
+- If two objects has the same hashcode value they are not required to be equal but if they are equal they need to have the same hashcode
+- If you override equals you must over hashcode
+- Default behavior of hashcode is to generate a number, so if you do not override then two objects can never be equal. 
+- Default behavior of equals is to do a == test. Therefore if you do not override then no two objects can ever be equal since the references will have different values. 
+- 
+
+
+
+TreeSet is always sorted. And prevents duplicates. In order to use TreeSet the objects that go inside a TreeSet must implement a comparable interface or the TreeSet instance needs to take in a comparator. 
+
+##### Maps
+
+Each element in a map has two objects
+
+
+
+If we want to return a list that is not modifiable then we can pass our collection through the Collections.unmodifiableList () method.
+
+As of Version 9, java has convience factory methods for collections, they allow you to create a prefilled list, set, or map. There are couple of things to understand about them. 
+
+
+The resulting collection created by these convience methods cannot be modified, they cannot even be sorted. They are not standard collections.
+
+Convience methods like list.of() , set.of(), map.of()/ Map.ofEntries()
+
+If we take a method that takes a list of object that is type parameterized as a generic. Then we cannot send in a list of type parameterized of subclass generics. This will not work because what happens if inside the method we try to add a different subtype while the list can only take the other one. So the compiler will stop this from happening. In order to get around it you can use the wildcard. This allows you to pass in the list but stops you from adding anything to the list. 
+
+Example of wildcard
+`public void takeAnimals (List<? extends Animal> animals)`
+
+
+
+`<T extends Animal> void takeThing(List<T> list)`
+
+
+
+`public <T extends Animal> void takeAnimals(List<T> list) { }`
+
+
+
+The above doesn't do much but the below one allows you return a list with the same type as was passed into the method. 
+
+
+`public <T extends Animal> List<T> takeAnimals(List<T> list) { }`
+
+
+With the wildcard below there is no guarantee that the return type will be the same as the type passed into the method.
+
+`public List<? extends Animal> takeAnimals(List<? extends Animal> animals) { }`
+
+Rule: use wildcard when you want to use a sub type or dont care about the return type and use the Type parameter when you want to enforce the type safety.
+
+### Chapter #12 : Lambdas and streams
+
+
+The Streams API is a set of operations we can perform on a collection, so when we read these operations in our code, we can understand what we’re trying to do with the collection data.
+
+**You don’t need to worry too much about the generic types on the Stream methods; you’ll see that using Streams “just works” the way you’d expect.**
+
+In case you are interested:
+
+-   **`<T>`** is usually the Type of the object in the stream.
+    
+-   **`<R>`** is usually the type of the Result of the method.
+
+Stream methods that return another Stream are called Intermediate Operations. These are instructions of things to do, but they don’t actually perform the operation on their own.
+
+Streams are like recipes: nothing’s going to happen until someone actually cooks them
+
+
+Collections are not ingredients, and a list limited to four entries is not a chocolate cake (sadly). But you do need to call one of the Stream’s “do it” methods in order to get the result you want. These “do it” methods are called **Terminal Operations**, and these are the methods that will actually return something to you.
+
+
+# Stream operations are building blocks
+
+We wrote a lot of code just to output the first four elements in the list. We also introduced a lot of new terminology: streams, intermediate operations, and terminal operations. Let’s put all this together: you create a **stream p****i****peline** from three different types of building blocks.
+
+Get the Stream from a **source** collection.
+Call zero or more **intermediate operations** on the Stream.
+Output the results with a **terminal operation**.
+
+You need at least the **_first_** and **_last_** pieces of the puzzle to use the Streams API. However, you don’t need to assign each step to its own variable (which we were doing on the last page). In fact, the operations are designed to be **chained**, so you can call one stage straight after the previous one, without putting each stage in its own variable.
+
+
+# Building blocks can be stacked and combined
+
+
+**The source, the intermediate operation(s), and the terminal operation all combine to form a Stream Pipeline. This pipeline represents a query on the original collection.**
+
+
+Create complex pipeline 
+
+
 
 
 
