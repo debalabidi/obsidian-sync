@@ -1,6 +1,6 @@
 # System Design
 
-[[Debals Vault/Tech Corner/Format of Distributed System Design Interview]]
+[[Debals Vault/Tech Corner/Java Technical Training/Format of Distributed System Design Interview]]
 
 
 ###### Examples:
@@ -10,7 +10,7 @@
 - [[Uber System Design]]
 - [[WhatsApp Design]]
 - [[Parking Lot Design]] 
-- [[Debals Vault/Tech Corner/Tinder Microservices]]
+- [[Debals Vault/Tech Corner/Java Technical Training/Tinder Microservices]]
 - [[Youtube System Design]]
 - 
 

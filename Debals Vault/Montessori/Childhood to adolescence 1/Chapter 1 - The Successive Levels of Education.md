@@ -18,7 +18,7 @@ Points:
 	- But if unluckily, it is necessary to pull one of the new teeth, more will be needed than merely a silk thread; we will have to deal with the extraction of a strong and fixed part. Loss of the baby teeth is only one among the many manifestations of this age. 
 	- All these traits - physical as much as psychic - constitute the links of the chain which is the metamorphosis of the child. He is both stronger and slimmer. His hair is less lovely. Psychologically, he is less gentle, less agreeable. 
 
-[[Debals Vault/Montessori/Childhood to adolescence/Chapter 2 - Metamorphoses]]
+[[Debals Vault/Montessori/Childhood to adolescence 1/Chapter 2 - Metamorphoses]]
 
 Related:
 - #FromChildhoodToAdolescence 

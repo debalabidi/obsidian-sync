@@ -1,4 +1,4 @@
 # Java Interview Preparation
 
-## [[System Design]]
+## [[Debals Vault/Tech Corner/System Design]]
 
