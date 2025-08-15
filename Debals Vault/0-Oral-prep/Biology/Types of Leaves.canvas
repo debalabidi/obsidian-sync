@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"80d05085e43c2490","type":"text","text":"Leaves","x":-460,"y":-360,"width":250,"height":60},
+		{"id":"3c4cf9c5a2de931a","type":"text","text":"Parallel Veins","x":-707,"y":-169,"width":250,"height":60},
+		{"id":"63662b56fca5b0d7","type":"text","text":"Reticulate Veins","x":-285,"y":-181,"width":250,"height":60},
+		{"id":"956dd3517f569885","type":"text","text":"Simple","x":-719,"y":32,"width":250,"height":60},
+		{"id":"dec0e2976c1978a1","type":"text","text":"Compound","x":-125,"y":27,"width":250,"height":60},
+		{"id":"e611887e493907c5","type":"text","text":"palmately","x":-942,"y":189,"width":250,"height":60},
+		{"id":"5811af62fbc00083","type":"text","text":"pinnately","x":-563,"y":182,"width":250,"height":60},
+		{"id":"ac41e43eef2f33ff","type":"text","text":"palmately","x":-294,"y":157,"width":250,"height":60},
+		{"id":"11409021b5f6b928","type":"text","text":"pinnately","x":39,"y":171,"width":250,"height":60},
+		{"id":"1abc6fa882fb38b8","type":"text","text":"parapinnately","x":-205,"y":360,"width":250,"height":60},
+		{"id":"83da589aa4330cc1","type":"text","text":"imparapanately","x":125,"y":343,"width":250,"height":60},
+		{"id":"79fdd7f530c90ca8","x":-1016,"y":694,"width":250,"height":60,"type":"text","text":"[[The Leaf]]"}
+	],
+	"edges":[
+		{"id":"47856bf113a6d359","fromNode":"80d05085e43c2490","fromSide":"bottom","toNode":"3c4cf9c5a2de931a","toSide":"top"},
+		{"id":"3e00ce3069571432","fromNode":"80d05085e43c2490","fromSide":"bottom","toNode":"63662b56fca5b0d7","toSide":"top"},
+		{"id":"f58ca98069801304","fromNode":"63662b56fca5b0d7","fromSide":"bottom","toNode":"956dd3517f569885","toSide":"top"},
+		{"id":"c556eb83aa990cea","fromNode":"63662b56fca5b0d7","fromSide":"bottom","toNode":"dec0e2976c1978a1","toSide":"top"},
+		{"id":"97b0a3fc8b355e58","fromNode":"956dd3517f569885","fromSide":"bottom","toNode":"e611887e493907c5","toSide":"top"},
+		{"id":"b28192f5fd2e5639","fromNode":"956dd3517f569885","fromSide":"bottom","toNode":"5811af62fbc00083","toSide":"top"},
+		{"id":"9158b0871ac3fc63","fromNode":"dec0e2976c1978a1","fromSide":"bottom","toNode":"ac41e43eef2f33ff","toSide":"top"},
+		{"id":"63add1abc87ffaf0","fromNode":"dec0e2976c1978a1","fromSide":"bottom","toNode":"11409021b5f6b928","toSide":"top"},
+		{"id":"6058c724c25614d3","fromNode":"11409021b5f6b928","fromSide":"bottom","toNode":"1abc6fa882fb38b8","toSide":"top"},
+		{"id":"d786646e8d9b8354","fromNode":"11409021b5f6b928","fromSide":"bottom","toNode":"83da589aa4330cc1","toSide":"top"}
+	]
+}

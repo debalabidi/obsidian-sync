@@ -1,0 +1,19 @@
+
+- Surface goes on forever.
+- two lines when they meet the form an angle.
+- parts of angles:
+	- sides
+	- vertex
+	- angle
+- Types of angles:
+	- whole
+	- complete
+	- right angle
+	- acute
+	- obtuse
+	- reflex 
+- Relationship of angles
+	- Complementary angles - two angles that make 90 
+	- supplementary angles - two angles that make 180 
+	- vertical angles
+	- 

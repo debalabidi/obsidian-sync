@@ -1,0 +1,3 @@
+Listen and read over the Introduction to Geography. If this were a fully in-person class, you would listen to the lecture and take notes. You don't have to listen and read at the same time--you can listen and read separately, but I think having both experiences will allow you to pick up details that may be missed if you did just one or the other.  
+  
+Once you have listened and read, please indicate that you have done so in the comment box.

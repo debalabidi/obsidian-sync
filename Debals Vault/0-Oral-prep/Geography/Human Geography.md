@@ -1,0 +1,3 @@
+- Start with the story.
+- get the cards out and talk about the people involved.
+- Then talk about what the farmer needs. 

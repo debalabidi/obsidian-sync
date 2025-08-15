@@ -1,0 +1,15 @@
+- Nomenclature of Circle
+
+	- center
+	- circumference
+	- radius
+	- diameter
+	- chord
+	- arc
+	- semi circumference
+- Surface parts:
+	- surface
+	- semi circle
+	- sector
+	- segment
+- 

@@ -7,11 +7,11 @@ You will notice that handouts are listed...you must also submit those, so that w
 5. Coming of Life  [[The Story of coming of Life - Notes]]
 6. [[Introduction to Biology]] 
 7. [[Introduction to History]]
-8. [[Black Strip ]] 
+8. [[Debals Vault/Montessori/Black Strip]] 
 9. [[Black Strip End Notes]]
 10. [[Story of the Coming of Human Beings ]] 
 11. [[Introduction to History]]
-12. [[Hand Timeline]] 
+12. [[Debals Vault/Montessori/Hand Timeline]] 
 13. Language  
 14. [[Communication in Signs]]  
 15. [[Notes on Communication Signs]]

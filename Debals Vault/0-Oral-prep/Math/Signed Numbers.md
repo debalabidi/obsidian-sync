@@ -1,0 +1,5 @@
+- number lines
+- orient to the beads
+- then make a snake
+- then show the subtraction with the snake
+- then show it on paper

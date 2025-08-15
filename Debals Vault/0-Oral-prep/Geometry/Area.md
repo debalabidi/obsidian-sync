@@ -1,0 +1,3 @@
+- remind them about square as a unit of measure.
+- Show the yellow material and talk through the area of rectangle. 
+- Show the parallelogram and how people used their imagination.

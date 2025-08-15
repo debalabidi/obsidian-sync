@@ -1,0 +1,15 @@
+- Remind of first great story.
+- it was dark and the earth was forming. 
+- The dance of the elements was taking place. 
+- the earth started to cool down 
+- and then it started to rain
+- it rained and rained
+- look back 
+- it is still raining
+- then life came 
+- single cell
+- multi cell
+- formation of shells and coming of life on land
+- amphibians to reptiles to early mammmals
+- in the end came the humans
+

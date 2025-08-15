@@ -1,0 +1,15 @@
+- remind of the great story
+- do not forget to mention safety gear
+- heat up ice and show the changing of state.
+- Different temperature changes the state of matter for different elements.
+- Solids:
+	- do not let you pass through. 
+	- push down
+	- cling together
+- liquid:
+	- less clingy together.
+	- moves side ways and pushes downwards.
+	- takes the shape of the container
+	- show the experiment
+- gas:
+	- diffuser.

@@ -1,0 +1,1 @@
+Watch the video that introduces the chapter. Indicate in the comment box that you have done so.

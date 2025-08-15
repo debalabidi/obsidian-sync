@@ -1,0 +1,11 @@
+- Prelude to air: 
+	- air occupies space - experiment
+	- hot air rises with spiral - experiment
+	- hot air rises and cooler air moves in - experiment
+- Air Insulates:
+	- Radiation heat - heat gets trappe in the atmosphere. 
+	- direct heat - the earth gets hot slowly 
+- The winds- corioles effects
+- the the movement of air with sea breeze and land breeze.
+- wind erosion
+- 

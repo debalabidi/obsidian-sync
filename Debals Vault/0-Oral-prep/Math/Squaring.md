@@ -1,0 +1,3 @@
+- use the 10 square to make it into a binomial square and calculate the value
+- use the trinomial square to make three
+- 
